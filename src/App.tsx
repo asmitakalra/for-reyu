@@ -16,16 +16,13 @@ export default function Page() {
       "Are you sure?",
       "What if I asked really nicely?",
       "Pretty please",
-      "What about an Iced coffee from blue tokai?",
       "PLEASE BB",
       "But :(",
       "I am going to die",
       "Yep im dead",
-      "ok ur talking to shubhankar's ghost",
-      "Krishma listen pleasee",
+      "ok ur talking to asmitas ghost",
       "Noooooooooon don't this to meee",
       "PRETTY PLEASE",
-      "Ma timilai maya garchu pleaseee",
       "Nooooooooooooooooo",
     ];
 
